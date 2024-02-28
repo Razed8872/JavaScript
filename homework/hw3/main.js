@@ -185,7 +185,7 @@ let books = [
 // let result = [];
 // for (const book of books) {
 //     if (book.authors.length === 1) {
-//         result[result.length] = book;
+//        ??? I don't know what to write here... :(
 //     }
 // }
 // console.log(result);
