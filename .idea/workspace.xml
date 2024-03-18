@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e9b3971-e769-4dcf-8bb7-f1bd1e61af8d" name="Changes" comment="Homework 6">
-      <change afterPath="$PROJECT_DIR$/homework/hw4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/hw4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/hw8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/hw8/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
       <workItem from="1709138386159" duration="1267000" />
       <workItem from="1709569749937" duration="1216000" />
       <workItem from="1709743854969" duration="930000" />
+      <workItem from="1710774761081" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1">
       <option name="closed" value="true" />
